@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+
+@theme {
+    --font-title: 'Krona One', sans-serif;
+    --font-main:  'Road Rage', system-ui;
+    --font-submain:  'Inter Variable', sans-serif;
+
+    /* colors */
+
+    --color-gold: #C77C48;
+    --color-red: #C73E40 ;
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+}
